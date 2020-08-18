@@ -10,6 +10,6 @@ echo "app-ads.txt dosyası nasıl eklenir.
 Bu konuyu sizinle paylaşmak istiyorum. Umarım Memnun kalırsınız. 
 ";
 ?>
-
+<script data-ad-client="ca-pub-5567736956840529" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </body>
 </html>
